@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SET(IV)-2</string>
+    <string name="welcome_to_sign_in">Welcome...</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="enter_age">Enter Age</string>
+    <string name="enter_gender">Enter Gender</string>
+    <string name="get_here">Get Here</string>
+    <string name="login">Login</string>
+</resources>
